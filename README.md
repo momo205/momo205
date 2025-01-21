@@ -8,7 +8,7 @@ I'm Muhammad, a dedicated full-stack software developer and student at the City 
 - **LinkedIn:** [Muhammad Ahmed](https://linkedin.com/in/muhammad-a-67356b205)
 - **Email:** [muhammadb2345@gmail.com](mailto:muhammadb2345@gmail.com)
 - **Portfolio:** [muhammadahmed2.vercel.app](https://muhammadahmed2.vercel.app/#home)
-- **Resume:** [View My Resume]([paste-your-link-here](https://docs.google.com/document/d/1WH0uwSDsV0DAk0Ffv9JPl2yfAJj0I50_0Gr3pTDsNoI/edit?usp=sharing))
+- **Resume:** [View My Resume](https://docs.google.com/document/d/1WH0uwSDsV0DAk0Ffv9JPl2yfAJj0I50_0Gr3pTDsNoI/edit?usp=sharing)
 
 
 ### 🌍 My Passion
